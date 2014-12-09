@@ -9,5 +9,6 @@ public class Hello {
 	    int x;
 	    x=10;
 	    System.out.println(x);
+	    System.out.println(x+x);
 	}
 }
