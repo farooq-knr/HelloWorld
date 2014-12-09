@@ -6,5 +6,8 @@ public class Hello {
 		System.out.println("hai");
 		System.out.println("android");
 	    System.out.println("iphone");
+	    int x;
+	    x=10;
+	    System.out.println(x);
 	}
 }
