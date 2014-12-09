@@ -4,6 +4,7 @@ public class Hello {
 		System.out.println("github");
 		System.out.println("hai");
 		System.out.println("hai");
-	    
+		System.out.println("android");
+	    System.out.println("iphone");
 	}
 }
