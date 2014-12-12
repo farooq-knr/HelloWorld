@@ -10,5 +10,6 @@ public class Hello {
 	    x=10;
 	    System.out.print("i am switched");
 	    System.out.println(x);
+	    System.out.println("commited");
 	}
 }
