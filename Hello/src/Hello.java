@@ -8,6 +8,7 @@ public class Hello {
 	    System.out.println("iphone");
 	    int x;
 	    x=10;
+	    System.out.print("i am switched");
 	    System.out.println(x);
 	}
 }
